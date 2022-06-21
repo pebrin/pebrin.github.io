@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "github IO personal site"
 title_separator          : "-"
 name                     : &name "P Brin"
 description              : &description "Software Engineer"

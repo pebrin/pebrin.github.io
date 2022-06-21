@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* B.S. in Electrical Engineering and Computer Science, Massachusetts Institute of Technology, 2010
+* B.S. in Physics, Massachusetts Institute of Technology, 2010
+<!--
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -26,16 +25,19 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+-->
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Extensive experience programming with Python and Java
+  * Some scientific Python programming libraries I'm comfortable with: numpy, scipy, JAX, matplotlib, jupyter, pyro/numpyro, pandas
+* Past experience with C, LaTeX, Javascript, React.js, Node.js, Verilog, Android development, and others.
+* OS: Linux (I use Arch btw)
+* Comfortable picking up new skills quickly
+* Languages:
+  * Natively fluent in Spanish and English
+  * Advanced learner of Japanese (expected JLPT N1 in Dec 2022)
+  * Conversational (yet rusty!) in French
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -57,3 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
