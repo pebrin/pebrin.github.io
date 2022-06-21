@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "P Brin"
-excerpt: "P Brin"
+title: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
