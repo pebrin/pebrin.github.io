@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "P Brin"
   avatar           : "profile.png"
-  bio              : "Software Engineer at the Harvard-Smithsonian Center for Astrophysics"
+  bio              : "Software Engineer"
   location         : "Boston, MA"
-  employer         :
+  employer         : "Harvard-Smithsonian Center for Astrophysics"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
